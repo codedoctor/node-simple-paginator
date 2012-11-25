@@ -7,6 +7,9 @@ Helper functions to deal with pagination
 
 ## Release Notes
 
+### 0.2.1
+exposed middleware
+
 ### 0.2.0
 * First version
 
@@ -18,8 +21,8 @@ Helper functions to deal with pagination
 
 * Change version in package.json
 git add . -A
-git commit -m "Upgrading to v0.2.0"
-git tag -a v0.2.0 -m 'version 0.2.0'
+git commit -m "Upgrading to v0.2.1"
+git tag -a v0.2.1 -m 'version 0.2.1'
 git push --tags
 npm publish
 
